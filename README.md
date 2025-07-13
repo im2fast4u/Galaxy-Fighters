@@ -30,7 +30,10 @@ If you get hit by a bullet your health decreases by 1.
 The objective of the game is to kill the player by firing bullets at their ship.
 ## How To Use Pygame
 ### Window
-pass
+In pygame, to create the window, there are a few steps.
+First, you have to import pygame.
+Then type: screen = pygame.display.set_mode((your_screen_width, your_screen_height))
+
 ### Game Loop
 pass
 ### Event Handler
