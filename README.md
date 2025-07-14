@@ -7,5 +7,5 @@ other player by firing bullets from their ship
 * Control Key To Shoot (depending on what side you are on)
 * Arrow Keys Or WASD To Move (depending on what side you are on)
 ## Links
-[Tutorial By Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)
+[Tutorial By Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)\
 [Pygame News](https://www.pygame.org/news)
