@@ -1,5 +1,11 @@
 # Galaxy Fighters
 A two-player game where each player shoots the 
 other player by firing bullets from their ship
-## Pygame
-[Pygame News:](https://www.pygame.org/news)
+## Features
+* Sound Effects For Shooting Bullets
+* Multiplayer Game
+* Control Key To Shoot (depending on what side you are on)
+* Arrow Keys Or WASD To Move (depending on what side you are on)
+## Links
+[Tutorial By Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)
+[Pygame News](https://www.pygame.org/news)
