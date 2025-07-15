@@ -6,6 +6,10 @@ other player by firing bullets from their ship
 * Multiplayer Game
 * Control Key To Shoot (depending on what side you are on)
 * Arrow Keys Or WASD To Move (depending on what side you are on)
+## Install Pygame
+```
+pip install pygame
+```
 ## Run
 ```
 git clone https://github.com/im2fast4u/Galaxy-Fighters.git
