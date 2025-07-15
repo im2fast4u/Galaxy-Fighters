@@ -7,8 +7,8 @@ other player by firing bullets from their ship
 * Control Key To Shoot (depending on what side you are on)
 * Arrow Keys Or WASD To Move (depending on what side you are on)
 ## Run
-```bash
-git clone https://github.com/im2fast4u/TGalaxyFighters.git
+```
+git clone https://github.com/im2fast4u/GalaxyFighters.git
 cd GalaxyFighters
 python main.py
 ```
