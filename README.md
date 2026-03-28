@@ -3,10 +3,10 @@ A two-player game where each player shoots the
 other player by firing bullets from their ship
 
 ## Features
-* Sound Effects For Shooting Bullets
-* Multiplayer Game
-* Control Key To Shoot (depending on what side you are on)
-* Arrow Keys Or WASD To Move (depending on what side you are on)
+* Sound effects for shooting bullets
+* Multiplayer game
+* Control key to shoot (depending on what side you are on)
+* Arrow keys or WASD to move (depending on what side you are on)
 
 ## Install Pygame
 *Enter this command in the terminal window or command prompt.*
