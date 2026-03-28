@@ -1,16 +1,21 @@
 # Galaxy Fighters
 A two-player game where each player shoots the 
 other player by firing bullets from their ship
+
 ## Features
 * Sound Effects For Shooting Bullets
 * Multiplayer Game
 * Control Key To Shoot (depending on what side you are on)
 * Arrow Keys Or WASD To Move (depending on what side you are on)
+
 ## Install Pygame
+*Enter this command in the terminal window or command prompt.*
 ```
 pip install pygame
 ```
-## Run
+## Run Game
+*Before running the game, make sure you have git and pygame installed. \
+Enter this command in the terminal window or command prompt.*
 ```
 git clone https://github.com/im2fast4u/Galaxy-Fighters.git
 cd Galaxy-Fighters
